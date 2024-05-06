@@ -88,3 +88,9 @@ body{
     text-transform:uppercase;
     text-align: center;
 }
+
+.contador{
+    font-size: 30px;
+    text-align: center;
+    padding: 1em;
+}
