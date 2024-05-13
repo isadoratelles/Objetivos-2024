@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&display=swap');
 
 :root{
     --cor-de-fundo: #f5aac7;
@@ -93,4 +94,6 @@ body{
     font-size: 30px;
     text-align: center;
     padding: 1em;
+    color:#b80065;
+    font-family:"Jersey 10", sans-serif;
 }
